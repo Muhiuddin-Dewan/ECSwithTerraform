@@ -1,5 +1,5 @@
-# ECSwithTerraform
-- ECS Cluster, Service and task creation using Terraform. 
+# ECS with Terraform
+- Cluster, Service and task creation using Terraform. 
 
 - By this template any one can deploy One microservice
 
