@@ -1,2 +1,8 @@
 # ECSwithTerraform
-ECS Cluster, Service and task creation using Terraform. One microservice(frontend) deployment using terraform.
+- ECS Cluster, Service and task creation using Terraform. 
+
+- By this template any one can deploy One microservice
+
+# AWS resources
+
+- VPC, Subnet, Internet Gateway, Route Table, IAM, Security Group, docker image, ECS[Cluster, Service, task]
