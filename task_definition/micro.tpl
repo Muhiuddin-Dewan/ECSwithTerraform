@@ -1,4 +1,3 @@
-{* Container Definition. Here need to specify the name, image_location, container_port_value, host_port_value *}
 [
   {
     "essential": true,
